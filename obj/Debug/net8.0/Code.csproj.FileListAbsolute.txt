@@ -1,0 +1,14 @@
+/Users/thom/Documents/Ecole/Code/bin/Debug/net8.0/Code
+/Users/thom/Documents/Ecole/Code/bin/Debug/net8.0/Code.deps.json
+/Users/thom/Documents/Ecole/Code/bin/Debug/net8.0/Code.runtimeconfig.json
+/Users/thom/Documents/Ecole/Code/bin/Debug/net8.0/Code.dll
+/Users/thom/Documents/Ecole/Code/bin/Debug/net8.0/Code.pdb
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.AssemblyInfoInputs.cache
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.AssemblyInfo.cs
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.csproj.CoreCompileInputs.cache
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.dll
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/refint/Code.dll
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.pdb
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/Code.genruntimeconfig.cache
+/Users/thom/Documents/Ecole/Code/obj/Debug/net8.0/ref/Code.dll
